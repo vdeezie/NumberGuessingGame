@@ -1,0 +1,3 @@
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.csprojAssemblyReference.cache
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.AssemblyInfoInputs.cache
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.AssemblyInfo.cs
