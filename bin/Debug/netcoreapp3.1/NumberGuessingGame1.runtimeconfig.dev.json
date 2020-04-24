@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EIC DAUPHINE E&R\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EIC DAUPHINE E&R\\.nuget\\packages"
+    ]
+  }
+}

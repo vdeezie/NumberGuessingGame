@@ -1,3 +1,11 @@
 C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.csprojAssemblyReference.cache
 C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.AssemblyInfoInputs.cache
 C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.AssemblyInfo.cs
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\bin\Debug\netcoreapp3.1\NumberGuessingGame1.exe
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\bin\Debug\netcoreapp3.1\NumberGuessingGame1.deps.json
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\bin\Debug\netcoreapp3.1\NumberGuessingGame1.runtimeconfig.json
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\bin\Debug\netcoreapp3.1\NumberGuessingGame1.runtimeconfig.dev.json
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\bin\Debug\netcoreapp3.1\NumberGuessingGame1.dll
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\bin\Debug\netcoreapp3.1\NumberGuessingGame1.pdb
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.dll
+C:\Users\EIC DAUPHINE E&R\NumberGuessingGame1\obj\Debug\netcoreapp3.1\NumberGuessingGame1.pdb
